@@ -53,7 +53,7 @@ python app.py
 | <img src="https://lakiup.com/wp-content/uploads/2025/07/2.png" width="400"> | <img src="https://lakiup.com/wp-content/uploads/2025/07/3.png" width="400"> |
 
 ## 📜 License
-MIT © 2023 [Your Name]
+MIT © 2025 [lakiup]
 
 ---
 
