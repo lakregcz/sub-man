@@ -1,4 +1,4 @@
-# Premium Subscription Manager 💎
+# Subscription Manager 💎
 
 ![App Banner](https://lakiup.com/wp-content/uploads/2025/07/1.png)
 
