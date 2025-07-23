@@ -95,13 +95,4 @@ A modern, user-friendly application for managing premium subscriptions with MySQ
 ## 📜 License  
 MIT © 2025 [lakiup](https://cv.lakiup.com)  
 
----
 
-### Key Improvements:  
-1. **Fixed all typos** (e.g., `sub-ma` → `sub-man`)  
-2. **Added clear MySQL setup instructions**  
-3. **Specified exact configuration steps**  
-4. **Improved formatting** for better readability  
-5. **Added badges** for tech stack visibility  
-
-Let me know if you'd like any further adjustments! 🚀
