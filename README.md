@@ -33,8 +33,8 @@ A modern, user-friendly application for managing premium subscriptions with MySQ
 - MySQL Server
 
 ```bash
-git clone https://github.com/lakregcz/sub-man/.git
-cd premium-subscription-manager
+git clone https://github.com/lakregcz/sub-man.git
+cd sub-ma
 pip install -r requirements.txt
 ```
 
